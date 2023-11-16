@@ -4,9 +4,10 @@ package OOPS;
 // Classname : PascalCase
 public class Employee extends Object{
     // data members
-    int id;
-    String name;
-    double salary;
+    // access modifiers
+    private int id;
+    private String name;
+    private double salary;
 
     public void takeInput(int id , String name , double salary){
         if(id<=0 || name==null || salary<=0){
@@ -48,3 +49,18 @@ public class Employee extends Object{
 // Circle    : takeInput(r)
 //             printArea();
 
+// this
+// super
+// encapsulation
+// constructor
+// override
+// SOLID :
+// S - SINGLE RESPONSIBILITY PRINCIPLE
+// D - DO NOT REPEAT YOURSELF
+// INHERITANCE : extend
+// Final
+// Final : to be fixed : u can't change the things/values
+// Final can be used with variables, methods , class
+// Relationship 
+// Is-A Relationship
+// UpCast DownCast

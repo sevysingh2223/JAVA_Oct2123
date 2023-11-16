@@ -18,6 +18,8 @@ public class TestEmployee {
         emp2.takeInput(0, "syam", 0);
         emp1.print();
         emp2.print();
+        System.out.println("-----------------------------------------------");
+        System.out.println(emp1.name);
 
         // DRY Principle : Do not repeat yourself
         // Object class : hashcode

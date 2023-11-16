@@ -1,5 +1,7 @@
 package OOPS;
 
+import Circle;
+
 class Trigo{
     String s = "hello";
     Trigo(){
