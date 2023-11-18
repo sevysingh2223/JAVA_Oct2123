@@ -11,7 +11,7 @@ class Living{
 
 class Animal extends Living{
     Animal(){
-        System.out.println("Hello");
+        System.out.println("Hello from Animal Class");
     }
     @Override
     void display(){
@@ -20,6 +20,9 @@ class Animal extends Living{
 }
 
 class Dog extends Animal{
+    Dog(){
+        System.out.println("Hello from Dog");
+    }
     @Override
     void display(){
         System.out.println("DOG CLASS");
