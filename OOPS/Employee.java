@@ -57,10 +57,13 @@ public class Employee extends Object{
 // SOLID :
 // S - SINGLE RESPONSIBILITY PRINCIPLE
 // D - DO NOT REPEAT YOURSELF
-// INHERITANCE : extend
+// INHERITANCE : extends
 // Final
 // Final : to be fixed : u can't change the things/values
 // Final can be used with variables, methods , class
 // Relationship 
 // Is-A Relationship
 // UpCast DownCast
+// Polymorphism
+// Inheritance
+// Abstract + Interfaces

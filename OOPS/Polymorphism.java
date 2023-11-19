@@ -8,7 +8,7 @@ class ABC{
         return;
     }
     //function_overload : compile time
-    int add(int a , int b){
+    public int add(int a , int b){
         return a+b;
     }
 }
@@ -17,6 +17,7 @@ class XYZ extends ABC{
     @Override 
     //Overriding : run time
     void display(){
+        super.display();
         System.out.println("XYZ");
     }
 }
