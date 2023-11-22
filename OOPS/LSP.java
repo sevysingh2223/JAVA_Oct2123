@@ -69,10 +69,13 @@ public class LSP {
     }
     public static void main(String[] args) {
         Shape circle = new Circle(7);
+
         shapeFunc(circle);
         Shape circle1 = new Circle(7);
+
         shapeFunc(circle1);
         Shape circle3 = new Circle(7);
+        
         shapeFunc(circle3);
         Shape square3 = new Square(7);
         shapeFunc(square3);
