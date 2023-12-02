@@ -5,3 +5,28 @@ Table
 1 to N : Even Sum
 1 to N : Odd Sum
 Print Digits of a Num ::: input : 2545 output : 2,5,4,5
+Sum of digits of a Num ::: input : 2545 output : 2+5+4+5 : 16
+Reverse a number : i/p -> 2568 : o/p -> 8652
+Reverse a string : i/p -> hello : o/p -> olleh
+Palindrome Number (Boolean)
+Palindrome String   (Boolean)
+Factorial of a number
+Power of 2
+Power of 3
+Power of 4
+Pow(x,n)
+Prime Number
+Armstrong Number
+Upper Case to Lower Case Conversion
+Replace Character in a String
+Find Character in a String
+Array Questions
+Array is Sorted or Not
+Search Element in Array
+Occurance of Element in Array
+Replace Element in Array
+Max & Min Element in Array
+Decimal To Binary
+Binary To decimal
+Add *
+Replace With #
